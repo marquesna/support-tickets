@@ -1,0 +1,23 @@
+{
+  "tickets": [
+    {
+      "id": "4d5e223b-e9b1-43ce-a7d3-4c999ca066b8",
+      "equipment": "Monitor",
+      "description": "Monitor desliga de repente",
+      "user_name": "Izael",
+      "status": "closed",
+      "created_at": "2025-12-16T10:49:08.834Z",
+      "updated_at": "2025-12-16T10:49:08.834Z"
+    },
+    {
+      "id": "e9ce51d5-c791-4205-a20c-53087d2168f4",
+      "equipment": "Computador",
+      "description": "Computador fica reiniciando",
+      "user_name": "Yggor",
+      "status": "closed",
+      "created_at": "2025-12-16T10:55:26.192Z",
+      "updated_at": "2025-12-16T10:55:26.192Z",
+      "solution": "Trocamos a memória do computador que estava causando o problema."
+    }
+  ]
+}
