@@ -29,16 +29,19 @@ A API permite:
 ## ▶️ Como executar
 
 1. Clone o repositório:
+
    ```bash
    git clone https://github.com/marquesna/support-tickets.git
    ```
 
 2. Entre na pasta do projeto:
+
    ```bash
    cd support-tickets
    ```
 
 3. Inicie o servidor:
+
    ```bash
    npm run dev
    ```
